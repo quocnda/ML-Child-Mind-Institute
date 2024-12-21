@@ -3,3 +3,5 @@
 - About this folder, we use Optuna to find the best hyperparameter.
 ## Version
 - All version which we update or trial are in this folder.
+
+## The best Version which we try is Version 6

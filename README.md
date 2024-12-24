@@ -12,6 +12,7 @@ All versions that we tried and updated are located in this folder.
 - Version 1b: KMeans Clustering
 - Version 3 + 4: XGBoost + GridSearchCV
 - Version 5: Ensemble models with VotingRegressor
+
 Methods that we applied in the versions for data preprocessing and model training:
 - Approaches: Unsupervised, Semi-supervised and Supervised Learning
 - Handle categorical features: Label Encoding, One Hot Encoding
